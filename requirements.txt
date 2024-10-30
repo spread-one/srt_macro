@@ -1,0 +1,4 @@
+tkinter  # GUI 구성 요소
+selenium  # 웹 브라우저 자동화
+webdriver-manager  # Edge 드라이버 자동 다운로드
+pygame  # 소리 재생
