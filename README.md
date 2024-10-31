@@ -11,5 +11,6 @@ pip install -r requirements.txt # 라이브러리 설치
 
 # exe 파일 패킹 방법
 pip install pyinstaller
+
 pyinstaller --onefile --windowed --add-data "success_sound.wav;." srt_macro_edge.py
 
