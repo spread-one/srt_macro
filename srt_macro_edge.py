@@ -187,5 +187,5 @@ if __name__ == "__main__":
     text_log = Text(root, height=10, width=50)
     text_log.grid(row=9, columnspan=2)
 
-    Label(root, text="김동우").grid(row=10, columnspan=2)
+    Label(root, text="spread-one").grid(row=10, columnspan=2)
     root.mainloop()
