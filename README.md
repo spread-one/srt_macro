@@ -1,5 +1,7 @@
 # srt_macro
-srt_macro
+srt_macro(edge 브라우저용)
+
+chrome은 드라이버 오류가 자주 발생해서 edge로 변경
 
 
 
